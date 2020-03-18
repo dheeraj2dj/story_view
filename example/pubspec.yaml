@@ -1,0 +1,17 @@
+name: story_view_example
+description: Example of story view.
+version: 0.0.1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  story_view:
+    git:
+      url: git@github.com:dheeraj2dj/story_view.git
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
